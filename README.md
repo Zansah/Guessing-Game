@@ -1,0 +1,1 @@
+Welcome to the Guessing Game. THis is a fun interactive game where players can attempt to guess a random generated number. This game includes different difficulty levels and provides hints to guide you to the correct answer.
